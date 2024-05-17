@@ -41,4 +41,6 @@ worker-6fc5d5b668-jgl4m                          1/1     Running     0          
 
 3. Deleting worker pod: pod got deleted and new pod got created. No change in app.
    
-5. Deleting db pod: pod got deleted and new pod got created. No change in vote count lost.
+5. Deleting db pod: pod got deleted and new pod got created. Vote count lost.
+   ![image](https://github.com/gksrana5/assignment56/assets/167311479/e9a1ca3a-f016-45c7-a313-b96ae95d6725)
+
